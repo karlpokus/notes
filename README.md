@@ -1,5 +1,7 @@
 # notes
-A minimal note taking app. A work in progress. Heavily influenced by [nv](http://notational.net/) If you're looking for a todoapp - check out [Monday](https://github.com/karlpokus/monday)
+A note taking app with minimal UI. Designed for keyboard use. A work in progress. Heavily influenced by [nv](http://notational.net/). All client code is at codepen at the moment. See demo link below.
+
+Btw: If you're looking for a todoapp in the same vein - check out [Monday](https://github.com/karlpokus/monday)
 
 # features
 - automatic saving
@@ -22,8 +24,10 @@ A minimal note taking app. A work in progress. Heavily influenced by [nv](http:/
 [demo](http://s.codepen.io/KarlPokus/debug/KgQXaj)
 
 # TODOs
-- [ ] markdown?
-- [ ] use app controller
+- [x] markdown - nope
+- [x] use app controller
+- [x] try out a component design with templates and events
+- [ ] client router
 
 # licence
 MIT
