@@ -16,7 +16,7 @@ Btw: If you're looking for a todoapp in the same vein - check out [Monday](https
 - navigate list by <kbd>TAB</kbd>
 - select note from list by <kbd>RETURN</kbd>
 - remove note from list by <kbd>DEL</kbd>+<kbd>RETURN</kbd>
-- empty list by emptying main input field
+- empty list by emptying main input
 
 ### note
 - save note body by <kbd>RETURN</kbd>
@@ -36,6 +36,7 @@ Btw: If you're looking for a todoapp in the same vein - check out [Monday](https
 - [x] update search regex
 - [x] fix bug where user tabs past list
 - [x] fix bug where selected listitem makes selected title
+- [x] whitelistKeys that don't set state on note body
 
 # licence
 MIT
